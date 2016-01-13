@@ -1,4 +1,5 @@
-The Essentials:
+# The Essentials:
+
 	Whether Hardware or Software, these are some essential tools for project building, teamwork and productivity.
 		Github
 			Version control lets all group members change code from various parts of the project and upload their version. Others can then easily clone the most recent version and everyone will be working on the most recent version of the project. The best thing? You can revert to an older version if anything goes wrong. 
@@ -6,7 +7,10 @@ The Essentials:
 		Devpost
 			Many Hackathons use Devpost in order to accept submissions from the hackers. It is a good idea to have one set up before you go to a Hackathon because it saves time. Just like with Github, make sure your work is on your Devpost for future Employers.
 
-Using Hardware? 
+**********************************************************************************************
+
+# Using Hardware? 
+
 	Here are some common hardware to hack with and software choices:
 		Raspberry Pi
 			This super small computer has gained attention very quickly because it elegantly encapsulates software with hardware in a way that creates endless possibilities for hacking. 
@@ -23,10 +27,16 @@ Using Hardware?
 			The Myo band tracks movement which can make for some really responsive hacks. 
 			The Myo runs Lua, a simple scripting language that is mainly for applications. Give the documentation a read-over if you’re considering this to make sure you want to work with Lua. 
 
+**********************************************************************************************
 
-Strictly Software? 
+# Strictly Software? 
+
 	Here are some of our favorites and what they are great for:
 		Android Studio
 			An Essential for App development on Android Devices. Downloading this is not an easy process and if you download it before the hackathon it will save you much needed time! It uses Java so make sure you have Java downloaded on your computer as well.
 		Sublime Text Editor
 			Among one of the best text editors (get the free trial version!) because of its flexibility and simplicity as well as elegant dark theme. The syntax can be changed to many different coding languages for you to use in your project. Although the free version will keep bugging you to get a license, it won’t actually make you purchase a license.
+
+**********************************************************************************************
+
+Natasha DeCoste
