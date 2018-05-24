@@ -31,7 +31,7 @@
 
 **********************************************************************************************
 
-## Strictly Software?##
+## Strictly Software? ##
 
 	Here are some of our favorites and what they are great for:
 		Android Studio
